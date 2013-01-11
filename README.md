@@ -1,4 +1,4 @@
 Backbone.sync.SAStruts
 ======================
 
-Backbone.sync overriden for SAStruts
+Backbone.sync override for SAStruts
