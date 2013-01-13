@@ -1,4 +1,17 @@
 *.class
+.settings
+.project
+.classpath
+.tomcatplugin
+licenses
+lib
+target
+work
+classes
+
+LICENSE.txt
+pom.xml
+s2jdbc-gen-build.xml
 
 # Package Files #
 *.jar
