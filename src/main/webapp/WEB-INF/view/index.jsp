@@ -38,7 +38,7 @@
 				    <input type="text" placeholder="名前" name="name" id="name" class="input-medium">
 	                <input type="text" placeholder="コメント" name="comment" id="comment" class="input-xxlarge">
 			    </label>
-			    <button type="submit" class="btn btn-primary input-small">登録</button>
+			    <button type="button" id="create" class="btn btn-primary input-small">登録</button>
 			  </fieldset>
             </form>
         </div>
@@ -59,7 +59,7 @@
                 </table>
             </div>
 
-            <div id="tableContents">
+            <div id="tableContents" class="hide">
                 <table class="table table-striped">
                     <tbody>
                         <tr>

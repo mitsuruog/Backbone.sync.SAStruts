@@ -15,7 +15,7 @@ import org.seasar.struts.util.RequestUtil;
 
 import com.mitsuruog.backbone.sync.sastruts.form.GuestBookForm;
 
-public class GuestBookAction {
+public class CommentAction {
 
 	@ActionForm
 	@Resource
